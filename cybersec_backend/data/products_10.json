@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "product_type": "hardware",
+    "name": "FortiGate 60F",
+    "description": "FortiGate 60F 是一款高效能、全方位的硬體防火牆設備，提供企業級安全性，適合中小企業部署。其具備高頻寬處理能力與內建VPN支援，能防止惡意流量入侵並提供穩定的遠端連線服務。產品整合IPS、AntiVirus、Web Filtering 等功能，有效阻擋各類網路威脅。",
+    "category": "防火牆",
+    "tags": ["防火牆", "VPN", "中小企業"],
+    "price": 15800,
+    "bundle_with": [2]
+  },
+  {
+    "id": 2,
+    "product_type": "software",
+    "name": "Symantec Endpoint Protection",
+    "description": "這是一套企業級端點防護解決方案，能有效對抗惡意軟體、勒索病毒與零時差攻擊。具備行為分析與AI引擎，可即時攔截威脅。",
+    "category": "EDR",
+    "tags": ["端點保護", "勒索病毒", "AI分析"],
+    "price": 8900,
+    "bundle_with": []
+  },
+  {
+    "id": 3,
+    "product_type": "cloud",
+    "name": "Cloudflare DDoS Protection",
+    "description": "Cloudflare 提供的 DDoS 防護服務具備全球 CDN 與流量清洗能力，能在數秒內攔截大規模攻擊，保護網站與 API 可用性。",
+    "category": "DDoS防護",
+    "tags": ["DDoS", "CDN", "API保護"],
+    "price": 12000,
+    "bundle_with": []
+  },
+  {
+    "id": 4,
+    "product_type": "hardware",
+    "name": "Palo Alto PA-220",
+    "description": "Palo Alto PA-220 是適用於分支機構的小型防火牆設備，搭載深層封包檢測與應用層威脅辨識能力，可支援虛擬防火牆設定。",
+    "category": "防火牆",
+    "tags": ["應用層防護", "SD-WAN", "虛擬防火牆"],
+    "price": 26800,
+    "bundle_with": [5]
+  },
+  {
+    "id": 5,
+    "product_type": "software",
+    "name": "Trend Micro Deep Security",
+    "description": "Deep Security 提供虛擬機與雲端環境專用的多層式防護，包括漏洞防護、惡意程式掃描與檔案完整性監控。",
+    "category": "雲端安全",
+    "tags": ["虛擬機", "漏洞防護", "AWS", "Azure"],
+    "price": 13200,
+    "bundle_with": []
+  },
+  {
+    "id": 6,
+    "product_type": "cloud",
+    "name": "Zscaler Internet Access",
+    "description": "Zscaler I.A. 是一套雲端安全閘道，將所有外部存取導向雲端進行檢查，提供零信任連線、Web過濾與惡意網址封鎖功能。",
+    "category": "安全閘道",
+    "tags": ["SASE", "Web防護", "零信任"],
+    "price": 16500,
+    "bundle_with": []
+  },
+  {
+    "id": 7,
+    "product_type": "software",
+    "name": "Elastic SIEM",
+    "description": "Elastic SIEM 可整合多種安全事件來源進行即時分析與可視化，適合 SOC 團隊進行監控與威脅追蹤。",
+    "category": "SIEM",
+    "tags": ["即時監控", "Log 分析", "SOC"],
+    "price": 19900,
+    "bundle_with": []
+  },
+  {
+    "id": 8,
+    "product_type": "hardware",
+    "name": "Cisco ASA 5506-X",
+    "description": "Cisco ASA 5506-X 提供多重防護功能，包括狀態檢查、VPN 支援與入侵防禦系統（IPS），適合中小企業部署。",
+    "category": "防火牆",
+    "tags": ["Cisco", "VPN", "IPS"],
+    "price": 17200,
+    "bundle_with": []
+  },
+  {
+    "id": 9,
+    "product_type": "cloud",
+    "name": "AWS Shield Advanced",
+    "description": "AWS Shield Advanced 提供對 AWS 上應用程式的主動式 DDoS 防禦服務，並包含自動流量偵測與封鎖機制。",
+    "category": "DDoS防護",
+    "tags": ["AWS", "DDoS", "雲端保護"],
+    "price": 35000,
+    "bundle_with": []
+  },
+  {
+    "id": 10,
+    "product_type": "software",
+    "name": "Wazuh XDR",
+    "description": "Wazuh 是一個開源 XDR 解決方案，整合端點資料蒐集、威脅偵測與自動化回應，適用於資安監控與合規報告需求。",
+    "category": "XDR",
+    "tags": ["開源", "合規", "Log", "端點監控"],
+    "price": 0,
+    "bundle_with": []
+  }
+]
