@@ -1,0 +1,128 @@
+{"id": "17b1c2fa-767a-4dfe-8957-33c07789f3c7", "instruction": "用輕鬆但專業既語氣，解釋 Web 防火牆 (WAF) 嘅作用", "input": "點解啲人話要用 WAF？", "output": "做電商網站一定要用 WAF，唔係好易畀人入後台偷資料。"}
+{"id": "da7a4245-b256-4b70-9b54-4f35a0b8e396", "instruction": "用輕鬆但專業既語氣，講解密碼管理工具幫 SME 管好帳戶", "input": "點樣設定強密碼先安全？", "output": "可以考慮用 password manager，好似 1Password 或 Bitwarden，唔洗記住曬。"}
+{"id": "522f34a7-1d8a-4518-b498-3accca848312", "instruction": "用輕鬆但專業既語氣，解釋資安術語俾 SME 老闆聽", "input": "我啲員工成日用公共 Wi-Fi，VPN 幫唔幫到？", "output": "VPN 好似條安全通道，幫你傳資料時加密，啱晒中小企做遠端協作。"}
+{"id": "0c35bb2d-3765-4cea-a397-c755f494b53c", "instruction": "用輕鬆但專業既語氣，解釋 Web 防火牆 (WAF) 嘅作用", "input": "香港做電商生意要唔要 WAF？", "output": "WAF 幫你擋住啲針對網站嘅攻擊，好似 SQL injection、跨站攻擊嗰啲。"}
+{"id": "baeffe22-9b3e-4ed7-8e95-e994ffa3eed9", "instruction": "用輕鬆但專業既語氣，講解密碼管理工具幫 SME 管好帳戶", "input": "點樣設定強密碼先安全？", "output": "密碼唔好太短，要有英數特別字元，最好每個帳號唔同。"}
+{"id": "ee1d8e26-32b4-4b16-b486-a0075a4053c5", "instruction": "用輕鬆但專業既語氣，教 SME 點樣防 Email 詐騙", "input": "有咩工具可以過濾釣魚 Email？", "output": "有啲 Email 安全平台會自動幫你分類垃圾或高風險內容，啱晒中小企。"}
+{"id": "ef6b6335-94eb-4d01-9c2b-324496070f2a", "instruction": "用輕鬆但專業既語氣，講解密碼管理工具幫 SME 管好帳戶", "input": "有咩工具可以幫員工安全記住密碼？", "output": "用公司政策強制更新密碼 + 兩步驗證就最穩陣。"}
+{"id": "d5c5ac3f-b288-4183-897a-86446d03a934", "instruction": "用輕鬆但專業既語氣，講解 SIEM 點幫公司睇晒所有資安日誌", "input": "我想知道有冇工具可以集中睇 log？", "output": "好多香港企業做 ISO 認證都會加 SIEM 系統做佐證。"}
+{"id": "0f65d2b9-64d0-4593-bdf1-5ea189a5cf7c", "instruction": "用輕鬆但專業既語氣，解釋資安術語俾 SME 老闆聽", "input": "VPN 係做咩用架？香港中小企要唔要用？", "output": "VPN 好似條安全通道，幫你傳資料時加密，啱晒中小企做遠端協作。"}
+{"id": "249a931f-22d5-4424-8982-ddfd5290c85a", "instruction": "用輕鬆但專業既語氣，建議 SME 做備份策略", "input": "員工啲文件成日唔見，可以點樣處理？", "output": "最好係有 onsite + offsite 備份，先至保險。"}
+{"id": "8dc87cc4-5856-4b3c-adf0-50ef0040f276", "instruction": "用輕鬆但專業既語氣，教 SME 點樣防 Email 詐騙", "input": "香港好多釣魚 Email，有咩方法可以教同事識破？", "output": "有啲 Email 安全平台會自動幫你分類垃圾或高風險內容，啱晒中小企。"}
+{"id": "50468696-9422-466b-95bc-f911564ec107", "instruction": "用輕鬆但專業既語氣，講解端點防護對公司有咩用", "input": "EDR 同傳統防毒有咩唔同？", "output": "香港好多 SME 都用 cloud base EDR，價錢合理之餘又唔洗維護。"}
+{"id": "f95e0afe-f71b-4a2b-8710-0a7fb4d95d09", "instruction": "用輕鬆但專業既語氣，講解密碼管理工具幫 SME 管好帳戶", "input": "要唔要裝 password manager？", "output": "香港好多公司都轉用 password manager，管理同分享帳戶都安全啲。"}
+{"id": "2076993c-ce8b-4740-891b-cb368d78106d", "instruction": "用輕鬆但專業既語氣，建議 SME 做備份策略", "input": "點樣防止電腦壞咗冇得救？", "output": "香港好多公司會每日 schedule 備份，重要資料都唔怕走失。"}
+{"id": "675c06fa-8069-4002-884d-c539bdb59ae0", "instruction": "用輕鬆但專業既語氣，建議 SME 做備份策略", "input": "我地公司啲資料應該點 backup？", "output": "香港好多公司會每日 schedule 備份，重要資料都唔怕走失。"}
+{"id": "c8623c6a-6c97-4075-932f-d820e90cc4b9", "instruction": "用輕鬆但專業既語氣，教 SME 點樣防 Email 詐騙", "input": "我啲同事有時亂撳 link，點教佢哋分辨 Email 真假？", "output": "啲 Email 要求急、用字怪，就要提高警覺，最好做內部模擬訓練。"}
+{"id": "07e38bbe-b1b5-4d55-a3ed-d0b43cc5ea7d", "instruction": "用輕鬆但專業既語氣，講解端點防護對公司有咩用", "input": "我啲同事亂 download 野，EDR 幫唔幫到？", "output": "EDR 比傳統防毒快幾步，遇到 ransomware 可以即時封鎖 + 通知你。"}
+{"id": "00984a6c-7924-42d6-890f-20355b94257c", "instruction": "用輕鬆但專業既語氣，講解 SIEM 點幫公司睇晒所有資安日誌", "input": "IT 人手唔夠，SIEM 幫唔幫到？", "output": "SIEM 會幫你集中收集所有資安 log，同時分析邊啲係可疑行為。"}
+{"id": "21a464cd-19ee-4147-8163-12e5e0b44f51", "instruction": "用輕鬆但專業既語氣，講解 SIEM 點幫公司睇晒所有資安日誌", "input": "我想知道有冇工具可以集中睇 log？", "output": "SIEM 會幫你集中收集所有資安 log，同時分析邊啲係可疑行為。"}
+{"id": "e57b611e-8fe8-47bd-9d68-c8ad715e35c1", "instruction": "用輕鬆但專業既語氣，解釋防火牆點保護中小企", "input": "公司得幾部電腦，咁都要防火牆？", "output": "就算你公司細，一個 cloud firewall 都可以保護你啲網絡唔俾人 scan 入嚟。"}
+{"id": "94580137-0fe9-47b8-abad-52c4c1de5e0d", "instruction": "用輕鬆但專業既語氣，講解 SIEM 點幫公司睇晒所有資安日誌", "input": "香港啲公司會唔會用 SIEM？", "output": "SIEM 唔淨止係 log viewer，佢仲會比你報警通知同統計分析。"}
+{"id": "70e27d9b-5402-4ce8-900b-892468552c5d", "instruction": "用輕鬆但專業既語氣，教 SME 點樣防 Email 詐騙", "input": "有咩工具可以過濾釣魚 Email？", "output": "啲 Email 要求急、用字怪，就要提高警覺，最好做內部模擬訓練。"}
+{"id": "6612ad90-6a0b-4a84-a795-b5ea405c1739", "instruction": "用輕鬆但專業既語氣，解釋 Web 防火牆 (WAF) 嘅作用", "input": "公司用緊網站，啱唔啱加 WAF？", "output": "WAF 係專門針對網站入口設計，唔同於一般網路防火牆。"}
+{"id": "6523be68-8db0-4168-a78e-66674cf9c40d", "instruction": "用輕鬆但專業既語氣，講解端點防護對公司有咩用", "input": "中小企如果唔裝防毒，有咩風險？", "output": "EDR 比傳統防毒快幾步，遇到 ransomware 可以即時封鎖 + 通知你。"}
+{"id": "c43ab526-95ed-4b74-ad1c-ab628ad61821", "instruction": "用輕鬆但專業既語氣，建議 SME 做備份策略", "input": "我地公司啲資料應該點 backup？", "output": "最好係有 onsite + offsite 備份，先至保險。"}
+{"id": "f987513a-5351-4e83-ab90-fe66944afe73", "instruction": "用輕鬆但專業既語氣，解釋防火牆點保護中小企", "input": "我冇 IT 人員，可以點樣簡單部署防火牆？", "output": "防火牆唔一定貴，有啲 SME 選擇雲端方案，唔洗自己維護又有保護。"}
+{"id": "7b7ae3bf-f2de-465e-b20a-8ed7105bcd91", "instruction": "用輕鬆但專業既語氣，講解端點防護對公司有咩用", "input": "我啲同事亂 download 野，EDR 幫唔幫到？", "output": "香港好多 SME 都用 cloud base EDR，價錢合理之餘又唔洗維護。"}
+{"id": "fd7e0193-0ccc-4682-953a-c17198e70d64", "instruction": "用輕鬆但專業既語氣，解釋防火牆點保護中小企", "input": "我冇 IT 人員，可以點樣簡單部署防火牆？", "output": "公司細反而更易俾人盯上，防火牆係一個基本防線，唔可以唔裝。"}
+{"id": "9c9e9cb0-bbda-4722-a8f1-26bae0a09d0b", "instruction": "用輕鬆但專業既語氣，解釋防火牆點保護中小企", "input": "我冇 IT 人員，可以點樣簡單部署防火牆？", "output": "依家有啲啟用即用嘅防火牆服務，好啱冇 IT team 嘅公司。"}
+{"id": "f4b6d9e3-1d4b-4204-b023-78dc26b7f008", "instruction": "用輕鬆但專業既語氣，教 SME 點樣防 Email 詐騙", "input": "Email 詐騙成日嚟，有冇簡單啲嘅方法防？", "output": "可以用 email 安全服務 + 培訓同事，見到啲奇怪字眼就唔好撳。"}
+{"id": "6e42ce55-57bd-4da6-b03d-7fe7bc6fe8ea", "instruction": "用輕鬆但專業既語氣，解釋資安術語俾 SME 老闆聽", "input": "做緊 remote work，我地應唔應該裝 VPN？", "output": "中小企未必請到 full-time IT，VPN 成本低又容易部署，係一個基本保安起步。"}
+{"id": "3a27f224-73bf-4778-946b-fff344fde0b5", "instruction": "用輕鬆但專業既語氣，解釋 Web 防火牆 (WAF) 嘅作用", "input": "點解啲人話要用 WAF？", "output": "WAF 係專門針對網站入口設計，唔同於一般網路防火牆。"}
+{"id": "9e72f4b4-e7c4-4f7f-b7d0-c1f63a70c1e0", "instruction": "用輕鬆但專業既語氣，講解端點防護對公司有咩用", "input": "我唔熟 EDR，點解人地話佢好重要？", "output": "你啲員工如果亂裝 app，EDR 可以分析行為，即時封鎖可疑進程。"}
+{"id": "e7363d0c-4546-42fc-817c-b9a33b71c879", "instruction": "用輕鬆但專業既語氣，教 SME 點樣防 Email 詐騙", "input": "香港好多釣魚 Email，有咩方法可以教同事識破？", "output": "可以部署釣魚防禦系統，自動標示高風險 email，慳番你 IT 人手。"}
+{"id": "9b2424d5-9a63-4b36-aca0-3f44e1b1ca8d", "instruction": "用輕鬆但專業既語氣，講解密碼管理工具幫 SME 管好帳戶", "input": "我地同事密碼都係123456，咁 ok 嗎？", "output": "香港好多公司都轉用 password manager，管理同分享帳戶都安全啲。"}
+{"id": "6694c4d7-2285-4780-a506-49d7911032f0", "instruction": "用輕鬆但專業既語氣，解釋資安術語俾 SME 老闆聽", "input": "我啲員工成日用公共 Wi-Fi，VPN 幫唔幫到？", "output": "喺香港好多公司 remote work，VPN 幫你保護內部系統唔怕俾人偷睇。"}
+{"id": "54b3dd0a-ff28-485a-91d2-4b870eeb5b4e", "instruction": "用輕鬆但專業既語氣，解釋資安術語俾 SME 老闆聽", "input": "VPN 係做咩用架？香港中小企要唔要用？", "output": "VPN 可以確保你同事上網時嘅數據唔會外洩，對啲用緊 Wi-Fi café 嘅同事特別有用。"}
+{"id": "c28dc7e7-bc0c-479e-a970-ec7040201d10", "instruction": "用輕鬆但專業既語氣，解釋 Web 防火牆 (WAF) 嘅作用", "input": "點解啲人話要用 WAF？", "output": "依家啲網站平台都可以加 WAF，成本唔高但保障大。"}
+{"id": "3c8215ca-acce-44ce-9cf8-b5bccea3c59b", "instruction": "用輕鬆但專業既語氣，解釋資安術語俾 SME 老闆聽", "input": "VPN 係做咩用架？香港中小企要唔要用？", "output": "喺香港好多公司 remote work，VPN 幫你保護內部系統唔怕俾人偷睇。"}
+{"id": "a01822ea-781d-455e-bdd0-ed8fc892cf1b", "instruction": "用輕鬆但專業既語氣，解釋防火牆點保護中小企", "input": "防火牆係咪淨係啱大公司？", "output": "就算你公司細，一個 cloud firewall 都可以保護你啲網絡唔俾人 scan 入嚟。"}
+{"id": "0dbebcff-0759-4d9c-ba42-3450fbda849f", "instruction": "用輕鬆但專業既語氣，講解 SIEM 點幫公司睇晒所有資安日誌", "input": "IT 人手唔夠，SIEM 幫唔幫到？", "output": "SIEM 唔淨止係 log viewer，佢仲會比你報警通知同統計分析。"}
+{"id": "82cf72a3-cff3-4fbd-a787-9f205c4c092e", "instruction": "用輕鬆但專業既語氣，講解密碼管理工具幫 SME 管好帳戶", "input": "要唔要裝 password manager？", "output": "密碼唔好太短，要有英數特別字元，最好每個帳號唔同。"}
+{"id": "df10709f-ef5c-41bd-bdf7-2772c17acd07", "instruction": "用輕鬆但專業既語氣，教 SME 點樣防 Email 詐騙", "input": "我啲同事有時亂撳 link，點教佢哋分辨 Email 真假？", "output": "有啲 Email 安全平台會自動幫你分類垃圾或高風險內容，啱晒中小企。"}
+{"id": "3c7f2b2b-2f1b-4a7d-be2a-e7fa5d758fab", "instruction": "用輕鬆但專業既語氣，講解 SIEM 點幫公司睇晒所有資安日誌", "input": "SIEM 同一般監控系統有咩唔同？", "output": "好多香港企業做 ISO 認證都會加 SIEM 系統做佐證。"}
+{"id": "d81a5262-05d3-4216-a4e1-9ed8a835bb07", "instruction": "用輕鬆但專業既語氣，講解 SIEM 點幫公司睇晒所有資安日誌", "input": "香港啲公司會唔會用 SIEM？", "output": "SIEM 會幫你集中收集所有資安 log，同時分析邊啲係可疑行為。"}
+{"id": "185a64b9-703a-4e43-9855-373df8dfcc41", "instruction": "用輕鬆但專業既語氣，建議 SME 做備份策略", "input": "員工啲文件成日唔見，可以點樣處理？", "output": "可以教員工用 OneDrive、Google Drive，起碼唔會本地壞機就冇曬。"}
+{"id": "b0719546-aaad-4c7d-94ec-4a5353ed7a4c", "instruction": "用輕鬆但專業既語氣，講解端點防護對公司有咩用", "input": "EDR 同傳統防毒有咩唔同？", "output": "EDR 比傳統防毒快幾步，遇到 ransomware 可以即時封鎖 + 通知你。"}
+{"id": "84a7198f-ee8f-44b5-9dc9-8f001e27c2e5", "instruction": "用輕鬆但專業既語氣，講解 SIEM 點幫公司睇晒所有資安日誌", "input": "SIEM 同一般監控系統有咩唔同？", "output": "中小企可以用 cloud SIEM，無需自己維護又睇得晒資料。"}
+{"id": "0b6c602c-64e0-4497-a4c9-d55b1f989e34", "instruction": "用輕鬆但專業既語氣，教 SME 點樣防 Email 詐騙", "input": "Email 詐騙成日嚟，有冇簡單啲嘅方法防？", "output": "啲 Email 要求急、用字怪，就要提高警覺，最好做內部模擬訓練。"}
+{"id": "ac01ff1f-9a57-47c2-887b-75a5defb228e", "instruction": "用輕鬆但專業既語氣，教 SME 點樣防 Email 詐騙", "input": "我啲同事有時亂撳 link，點教佢哋分辨 Email 真假？", "output": "可以部署釣魚防禦系統，自動標示高風險 email，慳番你 IT 人手。"}
+{"id": "5cdece33-43b8-4dc3-8cff-c654ba61f0ee", "instruction": "用輕鬆但專業既語氣，解釋 Web 防火牆 (WAF) 嘅作用", "input": "WAF 同防火牆有咩唔同？", "output": "WAF 係專門針對網站入口設計，唔同於一般網路防火牆。"}
+{"id": "c20fc5aa-a60e-40cb-b8a0-9f0b127b3da2", "instruction": "用輕鬆但專業既語氣，講解 SIEM 點幫公司睇晒所有資安日誌", "input": "SIEM 同一般監控系統有咩唔同？", "output": "SIEM 會幫你集中收集所有資安 log，同時分析邊啲係可疑行為。"}
+{"id": "faac43e4-fa01-40a2-a23b-6338670b08e9", "instruction": "用輕鬆但專業既語氣，講解密碼管理工具幫 SME 管好帳戶", "input": "我地同事密碼都係123456，咁 ok 嗎？", "output": "可以考慮用 password manager，好似 1Password 或 Bitwarden，唔洗記住曬。"}
+{"id": "8f2277ca-b3bd-4201-aafb-0f5390d9c58a", "instruction": "用輕鬆但專業既語氣，建議 SME 做備份策略", "input": "我地公司啲資料應該點 backup？", "output": "可以教員工用 OneDrive、Google Drive，起碼唔會本地壞機就冇曬。"}
+{"id": "7a934f76-34de-4543-bf00-321128e13f03", "instruction": "用輕鬆但專業既語氣，建議 SME 做備份策略", "input": "員工啲文件成日唔見，可以點樣處理？", "output": "香港好多公司會每日 schedule 備份，重要資料都唔怕走失。"}
+{"id": "3942b16a-b488-46fe-9162-b253747779f3", "instruction": "用輕鬆但專業既語氣，建議 SME 做備份策略", "input": "我地公司啲資料應該點 backup？", "output": "可以用雲端備份服務，例如每日自動備份，唔怕電腦壞。"}
+{"id": "776beee9-501b-458d-8a3d-5c43cddfa836", "instruction": "用輕鬆但專業既語氣，解釋防火牆點保護中小企", "input": "公司得幾部電腦，咁都要防火牆？", "output": "依家有啲啟用即用嘅防火牆服務，好啱冇 IT team 嘅公司。"}
+{"id": "3122458b-59e1-4f86-a5e4-e4b1371077d5", "instruction": "用輕鬆但專業既語氣，建議 SME 做備份策略", "input": "有咩 backup 工具啱中小企？", "output": "香港好多公司會每日 schedule 備份，重要資料都唔怕走失。"}
+{"id": "96158ee7-666c-4f3f-b74d-5bd47ed6ec97", "instruction": "用輕鬆但專業既語氣，解釋 Web 防火牆 (WAF) 嘅作用", "input": "香港做電商生意要唔要 WAF？", "output": "WAF 係專門針對網站入口設計，唔同於一般網路防火牆。"}
+{"id": "5b5473b5-757a-45a6-93d3-8bd5c5c140f0", "instruction": "用輕鬆但專業既語氣，解釋資安術語俾 SME 老闆聽", "input": "做緊 remote work，我地應唔應該裝 VPN？", "output": "VPN 可以確保你同事上網時嘅數據唔會外洩，對啲用緊 Wi-Fi café 嘅同事特別有用。"}
+{"id": "4f81c92d-e693-4d04-920c-437f5f704322", "instruction": "用輕鬆但專業既語氣，講解端點防護對公司有咩用", "input": "EDR 同傳統防毒有咩唔同？", "output": "EDR 唔止防毒，仲會實時監察員工電腦，發現可疑就自動處理。"}
+{"id": "9b57ca70-5347-48c5-ac11-f2dcd4731c78", "instruction": "用輕鬆但專業既語氣，解釋 Web 防火牆 (WAF) 嘅作用", "input": "公司用緊網站，啱唔啱加 WAF？", "output": "依家啲網站平台都可以加 WAF，成本唔高但保障大。"}
+{"id": "16bf02b7-6a14-4a47-a99d-fae0b28a355c", "instruction": "用輕鬆但專業既語氣，建議 SME 做備份策略", "input": "點樣防止電腦壞咗冇得救？", "output": "可以用雲端備份服務，例如每日自動備份，唔怕電腦壞。"}
+{"id": "80b0accf-3c3f-40be-a504-7f3fe60cd6ce", "instruction": "用輕鬆但專業既語氣，講解端點防護對公司有咩用", "input": "中小企如果唔裝防毒，有咩風險？", "output": "EDR 唔止防毒，仲會實時監察員工電腦，發現可疑就自動處理。"}
+{"id": "98236a9f-9fd8-490e-ba6d-59329f4f2e75", "instruction": "用輕鬆但專業既語氣，解釋防火牆點保護中小企", "input": "公司得幾部電腦，咁都要防火牆？", "output": "防火牆唔一定貴，有啲 SME 選擇雲端方案，唔洗自己維護又有保護。"}
+{"id": "eb0e952c-5df2-4221-9cca-87423407e56d", "instruction": "用輕鬆但專業既語氣，解釋資安術語俾 SME 老闆聽", "input": "VPN 有咩好處？中小企用得著嗎？", "output": "VPN 好似條安全通道，幫你傳資料時加密，啱晒中小企做遠端協作。"}
+{"id": "8ca98d60-fefb-41ba-8424-6dee3419321f", "instruction": "用輕鬆但專業既語氣，解釋資安術語俾 SME 老闆聽", "input": "我啲員工成日用公共 Wi-Fi，VPN 幫唔幫到？", "output": "VPN 可以確保你同事上網時嘅數據唔會外洩，對啲用緊 Wi-Fi café 嘅同事特別有用。"}
+{"id": "95961c40-69b4-458b-b7ed-ffe941d71924", "instruction": "用輕鬆但專業既語氣，解釋 Web 防火牆 (WAF) 嘅作用", "input": "公司用緊網站，啱唔啱加 WAF？", "output": "做電商網站一定要用 WAF，唔係好易畀人入後台偷資料。"}
+{"id": "81e28914-7bb8-448a-8a84-507df383b4cc", "instruction": "用輕鬆但專業既語氣，解釋 Web 防火牆 (WAF) 嘅作用", "input": "公司用緊網站，啱唔啱加 WAF？", "output": "WAF 幫你擋住啲針對網站嘅攻擊，好似 SQL injection、跨站攻擊嗰啲。"}
+{"id": "6ed8a3cd-25e2-4abc-84a3-c604265c544d", "instruction": "用輕鬆但專業既語氣，解釋資安術語俾 SME 老闆聽", "input": "VPN 係做咩用架？香港中小企要唔要用？", "output": "中小企未必請到 full-time IT，VPN 成本低又容易部署，係一個基本保安起步。"}
+{"id": "7092b301-424c-46fb-b541-400ef3ea2e4c", "instruction": "用輕鬆但專業既語氣，講解端點防護對公司有咩用", "input": "EDR 同傳統防毒有咩唔同？", "output": "你啲員工如果亂裝 app，EDR 可以分析行為，即時封鎖可疑進程。"}
+{"id": "80887d6b-5f2e-49e8-8977-1c85af7a04e7", "instruction": "用輕鬆但專業既語氣，講解密碼管理工具幫 SME 管好帳戶", "input": "要唔要裝 password manager？", "output": "用公司政策強制更新密碼 + 兩步驗證就最穩陣。"}
+{"id": "b0c14518-9b26-4594-a7c1-2600842a3aab", "instruction": "用輕鬆但專業既語氣，教 SME 點樣防 Email 詐騙", "input": "Email 詐騙成日嚟，有冇簡單啲嘅方法防？", "output": "有啲 Email 安全平台會自動幫你分類垃圾或高風險內容，啱晒中小企。"}
+{"id": "f29a69b9-d6e5-4538-9487-56715c999940", "instruction": "用輕鬆但專業既語氣，講解端點防護對公司有咩用", "input": "我唔熟 EDR，點解人地話佢好重要？", "output": "EDR 唔止防毒，仲會實時監察員工電腦，發現可疑就自動處理。"}
+{"id": "7b2f773b-dc00-4b2b-98af-40468c65a5e0", "instruction": "用輕鬆但專業既語氣，講解端點防護對公司有咩用", "input": "中小企如果唔裝防毒，有咩風險？", "output": "香港好多 SME 都用 cloud base EDR，價錢合理之餘又唔洗維護。"}
+{"id": "e8df7d6f-28f1-4972-9e34-03b56ea80376", "instruction": "用輕鬆但專業既語氣，解釋資安術語俾 SME 老闆聽", "input": "VPN 有咩好處？中小企用得著嗎？", "output": "喺香港好多公司 remote work，VPN 幫你保護內部系統唔怕俾人偷睇。"}
+{"id": "b1772d07-91d9-4629-9dea-48c2a2b97122", "instruction": "用輕鬆但專業既語氣，教 SME 點樣防 Email 詐騙", "input": "有咩工具可以過濾釣魚 Email？", "output": "可以用 email 安全服務 + 培訓同事，見到啲奇怪字眼就唔好撳。"}
+{"id": "2070c5d2-eea6-4a51-949b-f389a3acdb8b", "instruction": "用輕鬆但專業既語氣，教 SME 點樣防 Email 詐騙", "input": "香港好多釣魚 Email，有咩方法可以教同事識破？", "output": "啲 Email 要求急、用字怪，就要提高警覺，最好做內部模擬訓練。"}
+{"id": "645b1f66-0971-4117-b836-08da2fda222b", "instruction": "用輕鬆但專業既語氣，建議 SME 做備份策略", "input": "點樣防止電腦壞咗冇得救？", "output": "最好係有 onsite + offsite 備份，先至保險。"}
+{"id": "335dc18e-4567-4ae8-83d6-3ed9c9a393cf", "instruction": "用輕鬆但專業既語氣，講解密碼管理工具幫 SME 管好帳戶", "input": "有咩工具可以幫員工安全記住密碼？", "output": "香港好多公司都轉用 password manager，管理同分享帳戶都安全啲。"}
+{"id": "95fb5155-cf6c-4733-ae45-7d3473d08e9f", "instruction": "用輕鬆但專業既語氣，解釋 Web 防火牆 (WAF) 嘅作用", "input": "點解啲人話要用 WAF？", "output": "WAF 幫你擋住啲針對網站嘅攻擊，好似 SQL injection、跨站攻擊嗰啲。"}
+{"id": "0e66f0e9-d451-4393-9c1b-2674bb16f016", "instruction": "用輕鬆但專業既語氣，解釋防火牆點保護中小企", "input": "香港啲 SME 成日用雲端服務，仲需唔需要防火牆？", "output": "依家有啲啟用即用嘅防火牆服務，好啱冇 IT team 嘅公司。"}
+{"id": "5894c35a-b321-4d4b-bf96-5e1b76a0edff", "instruction": "用輕鬆但專業既語氣，講解端點防護對公司有咩用", "input": "中小企如果唔裝防毒，有咩風險？", "output": "你啲員工如果亂裝 app，EDR 可以分析行為，即時封鎖可疑進程。"}
+{"id": "8a70c622-5b4c-425f-a866-c0e5902a9573", "instruction": "用輕鬆但專業既語氣，解釋防火牆點保護中小企", "input": "防火牆係咪淨係啱大公司？", "output": "依家有啲啟用即用嘅防火牆服務，好啱冇 IT team 嘅公司。"}
+{"id": "b89acf6b-f821-4548-8c59-de798c5d227b", "instruction": "用輕鬆但專業既語氣，講解密碼管理工具幫 SME 管好帳戶", "input": "要唔要裝 password manager？", "output": "可以考慮用 password manager，好似 1Password 或 Bitwarden，唔洗記住曬。"}
+{"id": "3ea6c62f-706e-4962-9bd6-06ba28a96847", "instruction": "用輕鬆但專業既語氣，解釋資安術語俾 SME 老闆聽", "input": "VPN 有咩好處？中小企用得著嗎？", "output": "VPN 可以確保你同事上網時嘅數據唔會外洩，對啲用緊 Wi-Fi café 嘅同事特別有用。"}
+{"id": "776dbe57-149f-451b-bccb-8fd9b55cdfe2", "instruction": "用輕鬆但專業既語氣，講解端點防護對公司有咩用", "input": "我啲同事亂 download 野，EDR 幫唔幫到？", "output": "你啲員工如果亂裝 app，EDR 可以分析行為，即時封鎖可疑進程。"}
+{"id": "4943102f-610d-4a61-85e2-4cdb06e59d52", "instruction": "用輕鬆但專業既語氣，教 SME 點樣防 Email 詐騙", "input": "有咩工具可以過濾釣魚 Email？", "output": "可以部署釣魚防禦系統，自動標示高風險 email，慳番你 IT 人手。"}
+{"id": "e62a32e7-6d1e-4e1b-b49a-a1da43af5400", "instruction": "用輕鬆但專業既語氣，講解密碼管理工具幫 SME 管好帳戶", "input": "有咩工具可以幫員工安全記住密碼？", "output": "密碼唔好太短，要有英數特別字元，最好每個帳號唔同。"}
+{"id": "d2ce5c38-c949-4aeb-8678-2a3d75022c59", "instruction": "用輕鬆但專業既語氣，解釋防火牆點保護中小企", "input": "香港啲 SME 成日用雲端服務，仲需唔需要防火牆？", "output": "公司細反而更易俾人盯上，防火牆係一個基本防線，唔可以唔裝。"}
+{"id": "56431b6a-3b30-4f80-bf06-4c98df973a91", "instruction": "用輕鬆但專業既語氣，解釋資安術語俾 SME 老闆聽", "input": "我啲員工成日用公共 Wi-Fi，VPN 幫唔幫到？", "output": "中小企未必請到 full-time IT，VPN 成本低又容易部署，係一個基本保安起步。"}
+{"id": "6bf21a21-004c-454f-a22a-bff42708d504", "instruction": "用輕鬆但專業既語氣，建議 SME 做備份策略", "input": "有咩 backup 工具啱中小企？", "output": "最好係有 onsite + offsite 備份，先至保險。"}
+{"id": "95627ada-51fe-4bb3-8896-5a9d3b54a322", "instruction": "用輕鬆但專業既語氣，解釋防火牆點保護中小企", "input": "香港啲 SME 成日用雲端服務，仲需唔需要防火牆？", "output": "就算你公司細，一個 cloud firewall 都可以保護你啲網絡唔俾人 scan 入嚟。"}
+{"id": "01780df0-0a3f-453f-902a-5c12e9bef9db", "instruction": "用輕鬆但專業既語氣，解釋 Web 防火牆 (WAF) 嘅作用", "input": "WAF 同防火牆有咩唔同？", "output": "WAF 幫你擋住啲針對網站嘅攻擊，好似 SQL injection、跨站攻擊嗰啲。"}
+{"id": "44706723-f77c-4daa-a9ea-81d26569dec8", "instruction": "用輕鬆但專業既語氣，講解端點防護對公司有咩用", "input": "我唔熟 EDR，點解人地話佢好重要？", "output": "EDR 比傳統防毒快幾步，遇到 ransomware 可以即時封鎖 + 通知你。"}
+{"id": "39189663-efc5-4cd1-ab0a-102cc604bbf0", "instruction": "用輕鬆但專業既語氣，講解 SIEM 點幫公司睇晒所有資安日誌", "input": "香港啲公司會唔會用 SIEM？", "output": "好多香港企業做 ISO 認證都會加 SIEM 系統做佐證。"}
+{"id": "fa9c01a0-1390-4a6a-a05e-3f9c12fa9ae0", "instruction": "用輕鬆但專業既語氣，解釋防火牆點保護中小企", "input": "香港啲 SME 成日用雲端服務，仲需唔需要防火牆？", "output": "防火牆唔一定貴，有啲 SME 選擇雲端方案，唔洗自己維護又有保護。"}
+{"id": "d5121116-273f-47b3-b625-9f5bbeeabaf2", "instruction": "用輕鬆但專業既語氣，教 SME 點樣防 Email 詐騙", "input": "Email 詐騙成日嚟，有冇簡單啲嘅方法防？", "output": "可以部署釣魚防禦系統，自動標示高風險 email，慳番你 IT 人手。"}
+{"id": "d7c85670-2599-48da-938b-3e0e80180f32", "instruction": "用輕鬆但專業既語氣，講解 SIEM 點幫公司睇晒所有資安日誌", "input": "香港啲公司會唔會用 SIEM？", "output": "中小企可以用 cloud SIEM，無需自己維護又睇得晒資料。"}
+{"id": "d8bb2a9e-2996-4806-808d-63ab86a5495c", "instruction": "用輕鬆但專業既語氣，解釋防火牆點保護中小企", "input": "我冇 IT 人員，可以點樣簡單部署防火牆？", "output": "就算你公司細，一個 cloud firewall 都可以保護你啲網絡唔俾人 scan 入嚟。"}
+{"id": "978ffc6c-d7f8-4f6e-8306-5a900544da5d", "instruction": "用輕鬆但專業既語氣，解釋 Web 防火牆 (WAF) 嘅作用", "input": "WAF 同防火牆有咩唔同？", "output": "做電商網站一定要用 WAF，唔係好易畀人入後台偷資料。"}
+{"id": "5932220a-938f-40d9-b786-6364729adda0", "instruction": "用輕鬆但專業既語氣，講解密碼管理工具幫 SME 管好帳戶", "input": "有咩工具可以幫員工安全記住密碼？", "output": "可以考慮用 password manager，好似 1Password 或 Bitwarden，唔洗記住曬。"}
+{"id": "8b858353-118a-4be9-9181-217e27e4b56a", "instruction": "用輕鬆但專業既語氣，建議 SME 做備份策略", "input": "有咩 backup 工具啱中小企？", "output": "可以用雲端備份服務，例如每日自動備份，唔怕電腦壞。"}
+{"id": "f3dcacab-302b-478b-a0a1-494c193bb2b2", "instruction": "用輕鬆但專業既語氣，解釋 Web 防火牆 (WAF) 嘅作用", "input": "香港做電商生意要唔要 WAF？", "output": "做電商網站一定要用 WAF，唔係好易畀人入後台偷資料。"}
+{"id": "dcaba689-567c-4c43-a3fd-ab6fcb1b7413", "instruction": "用輕鬆但專業既語氣，講解 SIEM 點幫公司睇晒所有資安日誌", "input": "我想知道有冇工具可以集中睇 log？", "output": "SIEM 唔淨止係 log viewer，佢仲會比你報警通知同統計分析。"}
+{"id": "7b3889c5-4a0e-40d6-84ee-8afc99fa0621", "instruction": "用輕鬆但專業既語氣，解釋資安術語俾 SME 老闆聽", "input": "做緊 remote work，我地應唔應該裝 VPN？", "output": "喺香港好多公司 remote work，VPN 幫你保護內部系統唔怕俾人偷睇。"}
+{"id": "c84a2531-c3bc-456f-8f56-bd560cb16429", "instruction": "用輕鬆但專業既語氣，教 SME 點樣防 Email 詐騙", "input": "香港好多釣魚 Email，有咩方法可以教同事識破？", "output": "可以用 email 安全服務 + 培訓同事，見到啲奇怪字眼就唔好撳。"}
+{"id": "9c2cd577-77da-403a-9b2f-8f1e08d448cb", "instruction": "用輕鬆但專業既語氣，解釋資安術語俾 SME 老闆聽", "input": "VPN 有咩好處？中小企用得著嗎？", "output": "中小企未必請到 full-time IT，VPN 成本低又容易部署，係一個基本保安起步。"}
+{"id": "b6fb75d0-b1ef-44f7-9e5a-25fd0e4c34ec", "instruction": "用輕鬆但專業既語氣，教 SME 點樣防 Email 詐騙", "input": "我啲同事有時亂撳 link，點教佢哋分辨 Email 真假？", "output": "可以用 email 安全服務 + 培訓同事，見到啲奇怪字眼就唔好撳。"}
+{"id": "34fcb632-4551-4949-8f60-f1be8747b82b", "instruction": "用輕鬆但專業既語氣，解釋防火牆點保護中小企", "input": "防火牆係咪淨係啱大公司？", "output": "防火牆唔一定貴，有啲 SME 選擇雲端方案，唔洗自己維護又有保護。"}
+{"id": "d17a7ab5-26c9-41d5-b470-122c27891b1f", "instruction": "用輕鬆但專業既語氣，解釋防火牆點保護中小企", "input": "防火牆係咪淨係啱大公司？", "output": "公司細反而更易俾人盯上，防火牆係一個基本防線，唔可以唔裝。"}
+{"id": "f3274a78-b854-4e38-9f2a-8e73685b290f", "instruction": "用輕鬆但專業既語氣，講解密碼管理工具幫 SME 管好帳戶", "input": "點樣設定強密碼先安全？", "output": "用公司政策強制更新密碼 + 兩步驗證就最穩陣。"}
+{"id": "9278b020-fec1-4aaa-9a24-8b677cd352d0", "instruction": "用輕鬆但專業既語氣，講解 SIEM 點幫公司睇晒所有資安日誌", "input": "SIEM 同一般監控系統有咩唔同？", "output": "SIEM 唔淨止係 log viewer，佢仲會比你報警通知同統計分析。"}
+{"id": "ceb7603b-6ed7-4f71-82ff-42b402baa851", "instruction": "用輕鬆但專業既語氣，講解密碼管理工具幫 SME 管好帳戶", "input": "我地同事密碼都係123456，咁 ok 嗎？", "output": "密碼唔好太短，要有英數特別字元，最好每個帳號唔同。"}
+{"id": "82dc1d66-7a2e-4f88-8683-ed8593b1fb08", "instruction": "用輕鬆但專業既語氣，建議 SME 做備份策略", "input": "有咩 backup 工具啱中小企？", "output": "可以教員工用 OneDrive、Google Drive，起碼唔會本地壞機就冇曬。"}
+{"id": "13e35c4b-11d3-4e11-be18-1b5a11158b2f", "instruction": "用輕鬆但專業既語氣，講解 SIEM 點幫公司睇晒所有資安日誌", "input": "我想知道有冇工具可以集中睇 log？", "output": "中小企可以用 cloud SIEM，無需自己維護又睇得晒資料。"}
+{"id": "7c4c8a9e-b656-4e4b-8ca9-5e8006615ccf", "instruction": "用輕鬆但專業既語氣，講解端點防護對公司有咩用", "input": "我啲同事亂 download 野，EDR 幫唔幫到？", "output": "EDR 唔止防毒，仲會實時監察員工電腦，發現可疑就自動處理。"}
+{"id": "e288ba5a-b6c9-4a15-b7c3-818875992f53", "instruction": "用輕鬆但專業既語氣，解釋防火牆點保護中小企", "input": "公司得幾部電腦，咁都要防火牆？", "output": "公司細反而更易俾人盯上，防火牆係一個基本防線，唔可以唔裝。"}
+{"id": "69320f39-1420-4f4a-8c7f-76f80902a734", "instruction": "用輕鬆但專業既語氣，解釋 Web 防火牆 (WAF) 嘅作用", "input": "WAF 同防火牆有咩唔同？", "output": "依家啲網站平台都可以加 WAF，成本唔高但保障大。"}
+{"id": "6de1b0cf-4efe-4e75-b4f0-9671e5ed348f", "instruction": "用輕鬆但專業既語氣，講解密碼管理工具幫 SME 管好帳戶", "input": "我地同事密碼都係123456，咁 ok 嗎？", "output": "用公司政策強制更新密碼 + 兩步驗證就最穩陣。"}
+{"id": "2091b15c-444a-40a6-acb2-74a7d6459b2b", "instruction": "用輕鬆但專業既語氣，建議 SME 做備份策略", "input": "點樣防止電腦壞咗冇得救？", "output": "可以教員工用 OneDrive、Google Drive，起碼唔會本地壞機就冇曬。"}
+{"id": "234a9db5-bd51-4335-acf9-778fd09752c4", "instruction": "用輕鬆但專業既語氣，講解端點防護對公司有咩用", "input": "我唔熟 EDR，點解人地話佢好重要？", "output": "香港好多 SME 都用 cloud base EDR，價錢合理之餘又唔洗維護。"}
+{"id": "3207322e-9f45-457b-8f4b-8a1c92f3503b", "instruction": "用輕鬆但專業既語氣，解釋資安術語俾 SME 老闆聽", "input": "做緊 remote work，我地應唔應該裝 VPN？", "output": "VPN 好似條安全通道，幫你傳資料時加密，啱晒中小企做遠端協作。"}
+{"id": "4b60929d-49c4-4995-a26e-9d8ac57451af", "instruction": "用輕鬆但專業既語氣，講解密碼管理工具幫 SME 管好帳戶", "input": "點樣設定強密碼先安全？", "output": "香港好多公司都轉用 password manager，管理同分享帳戶都安全啲。"}
+{"id": "e448e4c0-b557-4731-a8eb-e27df6ce297f", "instruction": "用輕鬆但專業既語氣，解釋 Web 防火牆 (WAF) 嘅作用", "input": "香港做電商生意要唔要 WAF？", "output": "依家啲網站平台都可以加 WAF，成本唔高但保障大。"}
+{"id": "6fc89380-b187-447b-bbd5-d09f45e46da5", "instruction": "用輕鬆但專業既語氣，建議 SME 做備份策略", "input": "員工啲文件成日唔見，可以點樣處理？", "output": "可以用雲端備份服務，例如每日自動備份，唔怕電腦壞。"}
+{"id": "bac34e17-75f1-4240-949f-3b8de45bcd4e", "instruction": "用輕鬆但專業既語氣，講解 SIEM 點幫公司睇晒所有資安日誌", "input": "IT 人手唔夠，SIEM 幫唔幫到？", "output": "好多香港企業做 ISO 認證都會加 SIEM 系統做佐證。"}
+{"id": "21095c66-6637-4627-ae54-b66700c17b55", "instruction": "用輕鬆但專業既語氣，講解 SIEM 點幫公司睇晒所有資安日誌", "input": "IT 人手唔夠，SIEM 幫唔幫到？", "output": "中小企可以用 cloud SIEM，無需自己維護又睇得晒資料。"}
