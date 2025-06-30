@@ -1,4 +1,4 @@
-# 🧠 AI Cybersecurity Sales Assistant（LLM + RAG 全端聊天機器人）
+# 🧠 AI Cybersecurity Sales Assistant（LLM + RAG 全端聊天機器人）  持續更新中
 
 > **用 AI 幫助新客戶選擇資安產品，節省人力成本，提升初步導客效率。**  
 > 結合向量檢索、本地語言模型、FastAPI + React，打造適用於資安產品導購的 AI 聊天助理。
