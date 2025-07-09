@@ -1,2 +1,6 @@
 cd C:\Users\user\Desktop\ai\cybersec_backend
 uvicorn main:app --reload
+
+
+cd C:\Users\alex1\桌面\ai\cybersec_backend
+uvicorn main:app --reload
