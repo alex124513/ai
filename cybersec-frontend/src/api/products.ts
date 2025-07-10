@@ -1,4 +1,4 @@
-export interface Product {
+export type Product = {
   id: number;
   product_type: string;
   name: string;
@@ -7,7 +7,7 @@ export interface Product {
   tags: string[];
   price: number;
   bundle_with: number[];
-}
+};
 
 export async function fetchProducts(): Promise<Product[]> {
   try {
