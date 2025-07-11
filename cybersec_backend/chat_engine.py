@@ -24,7 +24,7 @@ for p in raw:
 embed_model = HuggingFaceEmbedding(model_name="intfloat/multilingual-e5-large")
 llm = Ollama(
     model="gemma3:12b",
-    base_url="https://*****.ngrok-free.app",
+    base_url="https://2ff8ce55d12c.ngrok-free.app",
     request_timeout=60
 )
 
