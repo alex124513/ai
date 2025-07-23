@@ -1,6 +1,8 @@
 import { useState, useEffect, useRef } from "react";
 import { fetchChatAnswer } from "../api/chat";
 import { Box, TextInput, Button, ScrollArea, Text, Paper, Stack } from "@mantine/core";
+import "./ChatBox.scss";
+
 
 interface Message {
   role: "user" | "ai";
@@ -28,7 +30,7 @@ export default function ChatBox() {
     } catch (err) {
       setMessages((prev) => [
         ...prev,
-        { role: "ai", content: "⚠️ 系統錯誤，請稍後再試" },
+        { role: "ai", content: "⚠️ 未收到return" },
       ]);
     } finally {
       setLoading(false);
@@ -40,80 +42,29 @@ export default function ChatBox() {
   }, [messages]);
 
   return (
-    <Box
-      style={{
-        display: "flex",
-        flexDirection: "column",
-        height: "80vh",
-        maxHeight: "800px",
-        maxWidth: "900px",
-        margin: "0 auto",
-        padding: "20px",
-        gap: "16px",
-        backgroundColor: "#f8f9fa",
-        borderRadius: "16px",
-        boxShadow: "0 4px 20px rgba(0, 0, 0, 0.1)",
-      }}
-    >
-      <ScrollArea
-        style={{
-          flex: 1,
-          backgroundColor: "white",
-          borderRadius: "12px",
-          padding: "16px",
-          border: "1px solid #e0e0e0",
-        }}
-      >
-        <Stack gap="sm">
+    <Box className="ChatBoxContainer">
+      <Box className="HeaderSection">
+        <div className="TitleLabel">
+          <Text fw={600} size="lg">LLM Sales</Text>
+        </div>
+      </Box>
+
+      <ScrollArea className="ChatHistorySection">
+        <Stack className="MessageStack">
           {messages.map((msg, i) => (
             <Box
               key={i}
-              style={{
-                display: "flex",
-                justifyContent: msg.role === "user" ? "flex-end" : "flex-start",
-                width: "100%",
-              }}
+              className={`MessageRow ${msg.role === "user" ? "right" : "left"}`}
             >
-              <Paper
-                shadow="xs"
-                p="md"
-                style={{
-                  backgroundColor: msg.role === "user" ? "#228be6" : "#f1f3f5",
-                  color: msg.role === "user" ? "white" : "inherit",
-                  maxWidth: "80%",
-                  borderRadius: msg.role === "user" 
-                    ? "16px 16px 0 16px" 
-                    : "16px 16px 16px 0",
-                }}
-              >
-                <Text 
-                  size="sm" 
-                  style={{ 
-                    whiteSpace: "pre-wrap",
-                    wordWrap: "break-word",
-                    overflowWrap: "break-word",
-                    lineHeight: 1.6,
-                  }}
-                >
-                  {msg.content}
-                </Text>
+              <Paper className={`Bubble ${msg.role}`}>
+                <Text size="sm">{msg.content}</Text>
               </Paper>
             </Box>
           ))}
           {loading && (
-            <Box style={{ display: "flex", justifyContent: "flex-start" }}>
-              <Paper
-                shadow="xs"
-                p="md"
-                style={{
-                  backgroundColor: "#f1f3f5",
-                  maxWidth: "80%",
-                  borderRadius: "16px 16px 16px 0",
-                }}
-              >
-                <Text size="sm" color="dimmed">
-                  正在回覆...
-                </Text>
+            <Box className="MessageRow left">
+              <Paper className="Bubble ai">
+                <Text size="sm" color="dimmed">正在回覆...</Text>
               </Paper>
             </Box>
           )}
@@ -121,12 +72,12 @@ export default function ChatBox() {
         </Stack>
       </ScrollArea>
 
-      <Box style={{ display: "flex", gap: "12px" }}>
+      <Box className="InputSection">
         <TextInput
           value={input}
           onChange={(e) => setInput(e.currentTarget.value)}
           placeholder="請輸入訊息..."
-          style={{ flex: 1 }}
+          className="InputField"
           onKeyDown={(e) => {
             if (e.key === "Enter" && !e.shiftKey) {
               e.preventDefault();
@@ -139,9 +90,8 @@ export default function ChatBox() {
         <Button
           onClick={handleSend}
           radius="md"
-          color="blue"
+          className="SendButton"
           disabled={loading || !input.trim()}
-          style={{ width: "100px" }}
         >
           {loading ? "發送中..." : "發送"}
         </Button>
