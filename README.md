@@ -37,8 +37,8 @@
 ```
 User ↔️ Frontend (React) ↔️ Backend API (FastAPI)
                                        ↘
-                                          +→ Vector Index (llama-index + E5)
-                                          +→ Local LLM (via Ollama)
+                                          +→ Embedding
+                                          +→ Local LLM
                                           +→ JSON Product Data
 ```
 
@@ -48,11 +48,11 @@ User ↔️ Frontend (React) ↔️ Backend API (FastAPI)
 
 | 層級 | 技術 |
 |------|------|
-| 前端 | React, TypeScript, Mantine UI |
-| 後端 | FastAPI, Pydantic |
+| 前端 | React, TypeScript
+| 後端 | FastAPI
 | 向量檢索 | [llama-index](https://github.com/jerryjliu/llama_index), [E5 embedding](https://huggingface.co/intfloat/multilingual-e5-large) |
-| 模型推理 | [Ollama](https://ollama.com/)（搭配 `Llama-Breeze2-8B-Instruct` 模型） |
-| 資料來源 | JSON 資安產品資料庫 |
+| 模型推理 | [Ollama] gemma3:12b
+| 資料來源 | JSON 資安產品模擬(後續可接MongoDB)
 
 ---
 
@@ -62,12 +62,7 @@ User ↔️ Frontend (React) ↔️ Backend API (FastAPI)
 
 - Node.js v18+
 - Python 3.10+
-- [Ollama](https://ollama.com/) 並已安裝以下模型：
-
-```bash
-ollama run willqiu/Llama-Breeze2-8B-Instruct:latest
-```
-
+- [Ollama](https://ollama.com/) 跑LLM用
 ---
 
 ### 1 安裝後端（FastAPI）
@@ -89,7 +84,7 @@ npm run dev
 ⚠️ 預設前端會呼叫 http://localhost:8000 取得回應
 
 ### 2 本地LLM（Llama）
-(待更新)
+ollama run gemma3:12b
 ---
 
 ## 📦 資料結構說明
@@ -118,8 +113,5 @@ npm run dev
 ---
 
 ## 🏗️ 開發中項目（Beta）
-
-- [ ] 對話歷史記憶與 Session 管理（目前使用簡易 global set）
-- [ ] 聊天視覺優化（tag highlight / 回覆動畫）
-- [ ] 精簡提示詞工程與錯誤處理
-- [ ] 文件與測試補齊（pytest / E2E 測試）
+- [ ] 多用戶對話（目前未有分割對話空間，不同User的對話是互通的，造成資安及體驗不佳問題）
+- [ ] 研究強化多輪對話的設計及可能性，雖然成功「推薦適用的產品」但目前的回答過於詳細。
