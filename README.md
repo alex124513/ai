@@ -4,7 +4,10 @@
 > 結合向量檢索、本地語言模型、FastAPI + React，打造適用於資安產品導購的 AI 聊天助理。
 
 ---
-![image](https://edu.filexl.com/uploads/2025-7-11test.png)
+![image](https://oxhutrho6kgc5fsh.public.blob.vercel-storage.com/1771401740216.jpg)
+![image](https://oxhutrho6kgc5fsh.public.blob.vercel-storage.com/1771401704511.jpg)
+![image](https://oxhutrho6kgc5fsh.public.blob.vercel-storage.com/1771401814657.jpg)
+
 ## 🎯 專案目的
 
 本系統是一套**資安產品推薦機器人**，讓新客戶可透過自然語言詢問資安相關問題，並快速得到合適產品建議。
